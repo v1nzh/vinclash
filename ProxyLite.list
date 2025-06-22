@@ -1,6 +1,12 @@
 # 代理补充列表(自己添加20240723）
 
+# ======================
 # 域名后缀匹配
+# ======================
+# web3相关网站
+DOMAIN-SUFFIX,gmgn.ai
+
+# 其他
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,subtitlecat.com
