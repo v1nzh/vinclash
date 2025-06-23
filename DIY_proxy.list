@@ -6,10 +6,14 @@
 # web3相关网站
 DOMAIN-SUFFIX,gmgn.ai
 
-# 其他
+# 谷歌play商店
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,services.googleapis.cn
+
+# 其他
 DOMAIN-SUFFIX,subtitlecat.com
+DOMAIN-SUFFIX,dahlia-av.jp
+DOMAIN-SUFFIX,faleno.jp
 
 
 # 域名关键字匹配
