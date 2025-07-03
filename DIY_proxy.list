@@ -21,8 +21,11 @@ DOMAIN-SUFFIX,debot.ai
 DOMAIN-SUFFIX,ave.ai
 DOMAIN-SUFFIX,privy.io
 DOMAIN-SUFFIX,metawin.com
-DOMAIN-SUFFIX,mixdesk.com
-
+DOMAIN-SUFFIX,mixdesk.com 
+DOMAIN-SUFFIX,mayeas023.com
+DOMAIN-SUFFIX,diting.ai
+DOMAIN-SUFFIX,blockpi.network
+DOMAIN-SUFFIX,mct.club
 
 # 谷歌play商店
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
