@@ -33,14 +33,17 @@ DOMAIN-SUFFIX,xxyy.io
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,services.googleapis.cn
 
-# 其他
+# 其他动作网站
 DOMAIN-SUFFIX,subtitlecat.com
 DOMAIN-SUFFIX,dahlia-av.jp
 DOMAIN-SUFFIX,faleno.jp
 
+# 代理后IP查询网站
+DOMAIN-SUFFIX,ipify.org
+DOMAIN-SUFFIX,ip.sb
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,1e100 
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
