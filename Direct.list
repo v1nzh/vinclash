@@ -16,6 +16,7 @@ IP-CIDR,219.146.1.66/32,no-resolve
 
 # 国内小众网站
 DOMAIN-SUFFIX,gying.in
+DOMAIN-SUFFIX,leijing.xyz
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
