@@ -42,6 +42,7 @@ DOMAIN-SUFFIX,faleno.jp
 # 代理后IP查询网站
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,ipwho.is
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100 
