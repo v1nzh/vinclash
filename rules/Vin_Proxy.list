@@ -31,8 +31,9 @@ DOMAIN-SUFFIX,okx-httpdns.com
 DOMAIN-SUFFIX,okex.org
 
 # 谷歌play商店
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+# xn--ngstr-lra8j.com 这个域名需要直连
 DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-SUFFIX,googleapis.cn
 
 # 其他动作网站
 DOMAIN-SUFFIX,subtitlecat.com
