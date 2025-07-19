@@ -4,6 +4,7 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
+DOMAIN-SUFFIX,wise.com
 
 # cloudflare的动态域名连接
 DOMAIN-SUFFIX,cloudflare-dns.com
