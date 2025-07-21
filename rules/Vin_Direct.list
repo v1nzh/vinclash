@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,wise.com
 DOMAIN-SUFFIX,moscwise.com
+DOMAIN-SUFFIX,ifastgb.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
