@@ -8,9 +8,15 @@
 # 外网直连
 
 
-# 域名关键字匹配
+# kraken域名
 DOMAIN-KEYWORD,kraken
-
-
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,api.smooch.io
+DOMAIN-SUFFIX,braze.com
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-SUFFIX,sardine.ai
+DOMAIN-SUFFIX,u.expo.dev
 
 
