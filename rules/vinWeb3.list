@@ -1,0 +1,22 @@
+# Web3补充列表(某些交易所需走特定地区IP)
+
+# MyList
+# 域名后缀匹配
+# DOMAIN-SUFFIX,time.windows.com
+
+
+# 外网直连
+
+
+# kraken域名
+DOMAIN-KEYWORD,kraken
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,api.smooch.io
+DOMAIN-SUFFIX,braze.com
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-SUFFIX,sardine.ai
+DOMAIN-SUFFIX,expo.dev
+DOMAIN-SUFFIX,sentry.io
+
