@@ -21,3 +21,16 @@ DOMAIN, static.kraken.com
 # -- 生态系统与关联服务 --
 DOMAIN-SUFFIX, futures.kraken.com
 DOMAIN-SUFFIX, cryptowat.ch
+
+# -- kraken可能域名 --
+DOMAIN-KEYWORD,kraken
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,api.smooch.io
+DOMAIN-SUFFIX,braze.com
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-SUFFIX,sardine.ai
+DOMAIN-SUFFIX,expo.dev
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,cdn-settings.segment.com
