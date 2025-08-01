@@ -1,0 +1,36 @@
+OKX (欧易) 规则集
+# [Rule]
+# OKX - 深度分流规则 (中文注释版)
+
+# -- 核心域名与网站 --
+DOMAIN-SUFFIX, okx.com
+DOMAIN-SUFFIX, okx.net
+DOMAIN-SUFFIX, okx-cdn.com
+DOMAIN-SUFFIX, okex.com
+DOMAIN-SUFFIX, okex.me
+DOMAIN-SUFFIX, okex.net
+
+# -- API接口 (交易与数据) --
+DOMAIN, www.okx.com
+DOMAIN, data.okx.com
+DOMAIN, static.okx.com
+
+# -- 实时行情 (Websocket) --
+DOMAIN, ws.okx.com
+DOMAIN, ws.okex.com
+
+# -- CDN与静态资源 --
+DOMAIN, cdn.okx.com
+
+# -- 生态系统与关联服务 --
+DOMAIN-SUFFIX, okcoin.com
+DOMAIN-SUFFIX, oklink.com
+DOMAIN-SUFFIX, oktchain.com
+DOMAIN-SUFFIX, okpool.com
+DOMAIN-SUFFIX, blockdream.com
+
+# -- IP地址 (可选补充) --
+# IP-CIDR, 154.92.36.0/24
+# IP-CIDR, 154.92.40.0/24
+# IP-CIDR, 185.180.12.0/24
+# IP-CIDR, 185.204.198.0/24

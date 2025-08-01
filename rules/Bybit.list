@@ -1,0 +1,46 @@
+# [Rule]
+# Bybit - 深度分流规则 (增强版)
+
+# -- 核心域名与网站 --
+DOMAIN-SUFFIX, bybit.com
+DOMAIN-SUFFIX, bybit.io
+DOMAIN-SUFFIX, bybit.biz
+DOMAIN-SUFFIX, bybit.cloud
+DOMAIN-SUFFIX, bybit-global.com
+DOMAIN-SUFFIX, bybitglobal.com
+DOMAIN-SUFFIX, bytick.com
+DOMAIN-SUFFIX, bydfi.com
+DOMAIN-SUFFIX, bycbe.com
+DOMAIN-SUFFIX, bymj.io
+DOMAIN-SUFFIX, byabcde.com
+DOMAIN-SUFFIX, byd3c3.com
+DOMAIN-SUFFIX, bybdc6.com
+
+# -- API接口 (交易与数据) --
+DOMAIN, api.bybit.com
+DOMAIN, api.bytick.com
+DOMAIN-SUFFIX, byapis.com
+DOMAIN-SUFFIX, bybit.com.hk
+
+# -- 实时行情 (Websocket) --
+DOMAIN, stream.bybit.com
+DOMAIN, stream.bytick.com
+
+# -- CDN与静态资源 --
+DOMAIN-SUFFIX, bycs.io
+DOMAIN-SUFFIX, bycsi.com
+DOMAIN-SUFFIX, bypin.com
+DOMAIN-SUFFIX, byapps.net
+DOMAIN-SUFFIX, bytetrade.com
+
+# -- 生态系统与关联服务 --
+DOMAIN-SUFFIX, bitdao.io
+DOMAIN-SUFFIX, apx.exchange
+DOMAIN, bybit-exchange.github.io
+
+# -- 第三方支持服务 --
+DOMAIN, bybit.ada.support
+
+# -- IP地址 (可选补充) --
+# IP-CIDR, 101.32.105.77/32
+# IP-CIDR, 47.242.43.195/32
