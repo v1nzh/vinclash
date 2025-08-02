@@ -2,3 +2,24 @@
 
 # -- hyperliquid域名 --
 DOMAIN-SUFFIX,hyperliquid.xyz
+
+# -- safepal域名 --
+DOMAIN-SUFFIX,pulse.walletconnect.org
+DOMAIN-SUFFIX,rpc.bitlayer.org
+DOMAIN-SUFFIX,sapphire.oasis.io
+DOMAIN-SUFFIX,rpc.taiko.xyz
+DOMAIN-SUFFIX,pacific-rpc.manta.network
+DOMAIN-SUFFIX,opbnb-mainnet-rpc.bnbchain.org
+DOMAIN-SUFFIX,rpc.coredao.org
+DOMAIN-SUFFIX,mainnet.base.org
+DOMAIN-SUFFIX,rpc.linea.build
+DOMAIN-SUFFIX,klaytn.api.onfinality.io
+DOMAIN-SUFFIX,rpc.xinfin.network
+DOMAIN-SUFFIX,flare.solidifi.app
+DOMAIN-SUFFIX,public-node.rsk.co
+DOMAIN-SUFFIX,system.chromaway.com
+DOMAIN-SUFFIX,songbird-api.flare.network
+DOMAIN-SUFFIX,opt-mainnet.g.alchemy.com
+DOMAIN-SUFFIX,rpc.fantom.network
+DOMAIN-SUFFIX,rpc-mainnet.matic.quiknode.pro
+DOMAIN-SUFFIX,rpc.ankr.com
