@@ -8,6 +8,7 @@ DOMAIN-SUFFIX, okx-cdn.com
 DOMAIN-SUFFIX, okex.com
 DOMAIN-SUFFIX, okex.me
 DOMAIN-SUFFIX, okex.net
+DOMAIN, www.okx-doh.com
 
 # -- API接口 (交易与数据) --
 DOMAIN, www.okx.com
