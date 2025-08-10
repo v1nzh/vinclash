@@ -24,3 +24,7 @@ DOMAIN-SUFFIX,rpc.fantom.network
 DOMAIN-SUFFIX,rpc-mainnet.matic.quiknode.pro
 DOMAIN-SUFFIX,rpc.ankr.com
 DOMAIN-SUFFIX,chroma.node.monster
+
+# -- Bitget钱包域名 --
+
+DOMAIN,api-app-slow.bitkeep.app
