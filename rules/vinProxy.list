@@ -3,6 +3,10 @@
 # ======================
 # 域名后缀匹配
 # ======================
+
+# -- nico的投资导航网站 --
+DOMAIN-SUFFIX,invest-nav.com
+
 # web3相关网站
 DOMAIN-SUFFIX,gmgn.ai
 DOMAIN-SUFFIX,avegac.com
