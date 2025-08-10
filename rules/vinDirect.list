@@ -18,6 +18,10 @@ DOMAIN-SUFFIX,cloudfront.net
 # Safepal直连
 DOMAIN-SUFFIX,isafepal.com
 
+# Bitget钱包直连
+DOMAIN-SUFFIX,api-app-slow.ljhsnzpc.com
+DOMAIN-SUFFIX,newtrans.bitkeep.fun
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 
