@@ -15,6 +15,9 @@ DOMAIN-SUFFIX,ifastgb.com
 DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,cloudfront.net
 
+# Safepal直连
+DOMAIN-SUFFIX,isafepal.com
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 
