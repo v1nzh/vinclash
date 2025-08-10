@@ -26,7 +26,6 @@ DOMAIN-SUFFIX,rpc.ankr.com
 DOMAIN-SUFFIX,chroma.node.monster
 
 # -- Bitget钱包域名 --
-
 DOMAIN,api-app-slow.bitkeep.app
 DOMAIN,message-push.bitkeep.app
 DOMAIN,newtrans.bitkeep.app
