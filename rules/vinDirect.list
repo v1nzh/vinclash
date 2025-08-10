@@ -11,6 +11,9 @@ DOMAIN-SUFFIX,wise.com
 DOMAIN-SUFFIX,moscwise.com
 DOMAIN-SUFFIX,ifastgb.com
 
+# 欧意直连
+DOMAIN-SUFFIX,www.okx.com.cdn.cloudflare.net
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 
