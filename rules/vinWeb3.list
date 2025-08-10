@@ -30,6 +30,6 @@ DOMAIN-SUFFIX,chroma.node.monster
 DOMAIN,api-app-slow.bitkeep.app
 DOMAIN,message-push.bitkeep.app
 DOMAIN,newtrans.bitkeep.app
-208.87.242.215
 DOMAIN,api-app-slow.bitkeep.fun
 DOMAIN,relay.walletconnect.org
+IP-CIDR,208.87.242.215,no-resolve
