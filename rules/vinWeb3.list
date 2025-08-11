@@ -3,6 +3,9 @@
 # -- hyperliquid域名 --
 DOMAIN-SUFFIX,hyperliquid.xyz
 
+# -- 美股pre-IPO网站域名 --
+DOMAIN-SUFFIX,prestocks.com
+
 # -- safepal域名 --
 DOMAIN-SUFFIX,pulse.walletconnect.org
 DOMAIN-SUFFIX,rpc.bitlayer.org
