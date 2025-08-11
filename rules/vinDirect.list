@@ -19,7 +19,6 @@ DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,isafepal.com
 
 # Bitget钱包直连
-DOMAIN-SUFFIX,api-app-slow.ljhsnzpc.com
 DOMAIN-SUFFIX,newtrans.bitkeep.fun
 DOMAIN-SUFFIX,cdn.bitkeep.vip
 DOMAIN-SUFFIX,static-web.jjdsn.vip
