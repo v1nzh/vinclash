@@ -1,5 +1,8 @@
 # -- Web3补充列表 --
 
+# -- 相关 swap 网站 --
+DOMAIN-SUFFIX,jup.ag
+
 # -- hyperliquid域名 --
 DOMAIN-SUFFIX,hyperliquid.xyz
 
