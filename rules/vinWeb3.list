@@ -4,6 +4,7 @@
 DOMAIN-SUFFIX,jup.ag
 DOMAIN-SUFFIX,ljhsnzpc.com
 DOMAIN-SUFFIX,tradingview.com
+DOMAIN-SUFFIX,walletconnect.org
 
 # -- okx域名 --
 DOMAIN-SUFFIX,api.amplitudeexperiment.com
@@ -39,9 +40,7 @@ DOMAIN-SUFFIX,rpc.ankr.com
 DOMAIN-SUFFIX,chroma.node.monster
 
 # -- Bitget钱包域名 --
-DOMAIN,api-app-slow.bitkeep.app
-DOMAIN,message-push.bitkeep.app
-DOMAIN,newtrans.bitkeep.app
-DOMAIN,api-app-slow.bitkeep.fun
-DOMAIN,relay.walletconnect.org
+DOMAIN-SUFFIX,bitkeep.top
+DOMAIN-SUFFIX,bitkeep.app
+DOMAIN-SUFFIX,bitkeep.fun
 IP-CIDR,208.87.242.215,no-resolve
