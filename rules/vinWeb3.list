@@ -5,6 +5,9 @@ DOMAIN-SUFFIX,jup.ag
 DOMAIN-SUFFIX,ljhsnzpc.com
 DOMAIN-SUFFIX,tradingview.com
 
+# -- okx域名 --
+DOMAIN-SUFFIX,api.amplitudeexperiment.com
+
 # -- hyperliquid域名 --
 DOMAIN-SUFFIX,hyperliquid.xyz
 
