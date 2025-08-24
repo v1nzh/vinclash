@@ -1,5 +1,8 @@
 # 需用美国IP访问的网站
 
+# -- 未分类 -- #
+DOMAIN-SUFFIX,sfcollege.edu
+
 # 盈透证券
 DOMAIN-SUFFIX,interactivebrokers.com
 DOMAIN-SUFFIX,ibkr.com
