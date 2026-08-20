@@ -4,6 +4,7 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
+DOMAIN-SUFFIX,catsxp.com
 
 # 外网直连
 DOMAIN-SUFFIX,wise.com
