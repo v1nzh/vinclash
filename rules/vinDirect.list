@@ -4,7 +4,7 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
-DOMAIN-SUFFIX,catsxp.com
+
 
 # 外网直连
 DOMAIN-SUFFIX,wise.com
@@ -34,6 +34,7 @@ IP-CIDR,219.146.1.66/32,no-resolve
 # 国内小众网站
 DOMAIN-SUFFIX,gying.in
 DOMAIN-SUFFIX,leijing.xyz
+DOMAIN-SUFFIX,catsxp.com
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
