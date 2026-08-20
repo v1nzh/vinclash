@@ -4,6 +4,8 @@
 # 域名后缀匹配
 # ======================
 
+# -- 境外小众网站 --
+DOMAIN-SUFFIX,qichiyu.com
 # -- nico的投资导航网站 --
 DOMAIN-SUFFIX,invest-nav.com
 
