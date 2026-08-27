@@ -1,5 +1,8 @@
 # -- Web3补充列表 --
 
+# -- 知名交易所域名 --
+DOMAIN-KEYWORD,bitget
+
 # -- 相关 swap 网站 --
 DOMAIN-SUFFIX,jup.ag
 DOMAIN-SUFFIX,ljhsnzpc.com
