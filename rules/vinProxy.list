@@ -9,12 +9,6 @@ DOMAIN-SUFFIX,qichiyu.com
 # -- nico的投资导航网站 --
 DOMAIN-SUFFIX,invest-nav.com
 
-
-# 其他动作网站
-DOMAIN-SUFFIX,subtitlecat.com
-DOMAIN-SUFFIX,dahlia-av.jp
-DOMAIN-SUFFIX,faleno.jp
-
 # 代理后IP查询网站
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,ip.sb
