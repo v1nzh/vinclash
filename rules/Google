@@ -1,2 +1,4 @@
 # 谷歌补充规则
 
+# 谷歌play商店
+DOMAIN-SUFFIX,services.googleapis.cn
