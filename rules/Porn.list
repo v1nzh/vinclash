@@ -26,11 +26,11 @@ DOMAIN-SUFFIX,faleno.jp
 # HOST-KEYWORD: 1
 # HOST-SUFFIX: 7
 # TOTAL: 8
-HOST-SUFFIX,dlandroid.rcv.sandai.net,PikPak
-HOST-SUFFIX,hub5idx.v6.shub.sandai.net,PikPak
-HOST-SUFFIX,hub5pn.wap.sandai.net,PikPak
-HOST-SUFFIX,hub5pnc.sandai.net,PikPak
-HOST-SUFFIX,hub5pr.v6.phub.sandai.net,PikPak
-HOST-SUFFIX,hubciddata.sandai.net,PikPak
-HOST-SUFFIX,mypikpak.com,PikPak
-HOST-KEYWORD,mypikpak,PikPak
+DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
+DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net
+DOMAIN-SUFFIX,hub5pn.wap.sandai.net
+DOMAIN-SUFFIX,hub5pnc.sandai.net
+DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net
+DOMAIN-SUFFIX,hubciddata.sandai.net
+DOMAIN-SUFFIX,mypikpak.com
+DOMAIN-KEYWORD,mypikpak
