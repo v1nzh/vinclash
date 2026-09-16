@@ -19,14 +19,3 @@ DOMAIN-SUFFIX,subtitlecat.com
 DOMAIN-SUFFIX,dahlia-av.jp
 DOMAIN-SUFFIX,faleno.jp
 
-# NAME: PikPak
-# AUTHOR: tugepaopao
-# REPO: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/QuantumultX/PikPak/README.md
-DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
-DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net
-DOMAIN-SUFFIX,hub5pn.wap.sandai.net
-DOMAIN-SUFFIX,hub5pnc.sandai.net
-DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net
-DOMAIN-SUFFIX,hubciddata.sandai.net
-DOMAIN-SUFFIX,mypikpak.com
-DOMAIN-KEYWORD,mypikpak
