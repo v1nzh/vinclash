@@ -4,6 +4,15 @@
 # 域名后缀匹配
 # ======================
 
+# -- docker仓库临时放这里 -- 规则集地址 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/classical/docker.list
+DOMAIN,docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
+DOMAIN,docker-pinata-support.s3.amazonaws.com
+DOMAIN-SUFFIX,compose-spec.io
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,dockerstatic.com
+
+
 # -- 境外小众网站 --
 DOMAIN-SUFFIX, koofr.net                      # 欧洲网盘
 DOMAIN-SUFFIX,qichiyu.com                     # 七尺宇博客
