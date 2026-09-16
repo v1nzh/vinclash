@@ -5,9 +5,9 @@
 # ======================
 
 # -- 境外小众网站 --
-DOMAIN-SUFFIX,qichiyu.com
-# -- nico的投资导航网站 --
-DOMAIN-SUFFIX,invest-nav.com
+DOMAIN-SUFFIX, koofr.net                      # 欧洲网盘
+DOMAIN-SUFFIX,qichiyu.com                     # 七尺宇博客
+DOMAIN-SUFFIX,invest-nav.com                  # nico的投资导航网站
 
 # 代理后IP查询网站
 DOMAIN-SUFFIX,ipify.org
