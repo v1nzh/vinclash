@@ -15,10 +15,6 @@ DOMAIN-SUFFIX,moscwise.com
 DOMAIN-SUFFIX,ifastgb.com
 DOMAIN-SUFFIX,ibkr.com.cn
 
-# 欧意直连
-DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
-DOMAIN-SUFFIX,cloudfront.net
-
 # Safepal直连
 
 # Bitget钱包直连
